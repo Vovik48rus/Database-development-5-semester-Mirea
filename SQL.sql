@@ -98,6 +98,7 @@ CREATE TABLE "Product" (
     "status" boolean NOT NULL,
     PRIMARY KEY ("product_id"),
     CONSTRAINT "fk_Product_warehouse_id_Warehouse_warehouse_id" FOREIGN KEY("warehouse_id") REFERENCES "Warehouse"("warehouse_id"),
+    CONSTRAINT "fk_Product_subcategory_id_Subcategory_subcategory_id" FOREIGN KEY("subcategory_id") REFERENCES "Subcategory"("subcategory_id"),
     CONSTRAINT "check_price_positive" CHECK (price > 0)
 );
 CREATE TABLE "relation_Order_Product" (
