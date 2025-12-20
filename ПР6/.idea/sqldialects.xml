@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/389143c1-f16c-4595-a0d2-f1748c7f73ed/console.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/389143c1-f16c-4595-a0d2-f1748c7f73ed/console_4.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/389143c1-f16c-4595-a0d2-f1748c7f73ed/console_5.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/389143c1-f16c-4595-a0d2-f1748c7f73ed/Восстановление id.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/389143c1-f16c-4595-a0d2-f1748c7f73ed/Генерация записей Product.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_5.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Восстановление id.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Генерация записей Product.sql" dialect="PostgreSQL" />
+  </component>
+</project>
