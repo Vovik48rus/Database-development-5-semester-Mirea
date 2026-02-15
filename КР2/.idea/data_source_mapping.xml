@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/queries/Create.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Query.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Query_1.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Query_2.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Query_3.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task1/check_airport_iata_format.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task1/insert_access.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task1/insert_fail.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task1/trg_check_airport_iata_format.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task2/Error1.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task2/Error2.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task2/access.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task2/change_route_aircraft.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task3/Access.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task3/Error.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+    <file url="file://$PROJECT_DIR$/queries/Task3/report_movement_seat_occupation.sql" value="389143c1-f16c-4595-a0d2-f1748c7f73ed" />
+  </component>
+</project>
